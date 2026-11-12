@@ -23,4 +23,11 @@ app.use("/api/account",AccountRouter)
 app.use("/api/Transaction",TransactionRouter)
 
 
+
+// Test Route
+app.get("/",(req,res)=>{
+    res.send("The App has been activated")
+})
+
+
 module.exports = app

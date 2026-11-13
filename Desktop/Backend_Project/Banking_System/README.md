@@ -280,7 +280,6 @@ B.Tech CSE – AI & ML
 Backend Development | Node.js | Express.js | MongoDB
 
 - **GitHub:** [@notreallyrajat](https://github.com/notreallyrajat)
-- **LinkedIn:** [Add your LinkedIn profile URL]
 
 ---
 
